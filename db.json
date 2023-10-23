@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Alien",
+      "author": "sidney"
+    },
+    {
+      "id": 2,
+      "title": "the read",
+      "author": "stendhal"
+    },
+    {
+      "id": 3,
+      "title": "War and Peace",
+      "author": "Leo Tolstoy"
+    },
+    {
+      "id": 5,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Le"
+    }
+  ]
+}
